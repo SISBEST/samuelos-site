@@ -27,7 +27,7 @@ const features = [
     title: <>Powerful Editor</>,
     description: (
       <>
-        We use Microsoft's Monaco Editor for editing, providing easy syntax highlighting.
+        We use the ACE Editor for editing, providing easy syntax highlighting.
       </>
     ),
   },
@@ -36,6 +36,14 @@ const features = [
     description: (
       <>
         SamuelOS isn't sponsored by any giant corporation, and will stay free forever.
+      </>
+    ),
+  },
+  {
+    title: <>Apps &amp; Games</>,
+    description: (
+      <>
+        Add your own HTML/JS games/tools for all your employees.
       </>
     ),
   }

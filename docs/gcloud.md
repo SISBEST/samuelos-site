@@ -16,7 +16,7 @@ title: Comparison to Google Drive
   </tr>
   <tr>
     <td>Account-based access</td>
-    <td>✅</td>
+    <td>❌</td>
     <td>✅</td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@ title: Comparison to Google Drive
     <td>❌</td>
   </tr>
   <tr>
-    <td>Public file hosting</td>
+    <td>Custom wallpapers</td>
     <td>✅</td>
     <td>❌</td>
   </tr>
@@ -36,6 +36,11 @@ title: Comparison to Google Drive
   </tr>
   <tr>
     <td>SaaS and self-hosted options</td>
+    <td>✅</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Apps &amp; Games</td>
     <td>✅</td>
     <td>❌</td>
   </tr>
