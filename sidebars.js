@@ -1,5 +1,6 @@
 module.exports = {
   someSidebar: {
-    Info: ['setup', 'gcloud'],
+    'Info': ['about', 'gcloud'],
+    'Get Started': ['download', 'config']
   },
 };

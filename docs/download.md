@@ -1,6 +1,6 @@
 ---
-id: setup
-title: Setup Guide
+id: download
+title: Download
 ---
 ## SaaS
 <a href="mailto:samuel@samuelsharp.com">Contact us</a> and we'll get you going in no time!
